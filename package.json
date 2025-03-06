@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-vidflow",
+  "version": "1.0.0",
+  "description": "![Imagem de capa do curso. O título é \"3519 - Node.js e terminal\" e o subtítulo é \"Dominando o ambiente de desenvolvimento front-end\".](./thumb.png)",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarosordi/nodejs-vidflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvarosordi/nodejs-vidflow/issues"
+  },
+  "homepage": "https://github.com/alvarosordi/nodejs-vidflow#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.26.0",
+    "@typescript-eslint/parser": "^8.26.0",
+    "eslint": "^9.21.0"
+  }
+}
